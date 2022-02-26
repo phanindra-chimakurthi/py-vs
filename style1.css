@@ -1,0 +1,23 @@
+.button1,.button2{
+    background-color: aqua;
+    color: black;
+    border-radius: 24px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+body{
+    background-color: aliceblue;
+    text-align: auto;
+    font-style: italic;
+}
+.fname,.lname,.pass,.shw{
+    height: 20px;
+    width: 24px;
+}
+h1{
+    margin-bottom: 4px;
+}
+h2{
+    margin-top: 4px;
+}
